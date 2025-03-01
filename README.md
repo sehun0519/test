@@ -19,7 +19,7 @@ Yacht is a dice game where players take turns rolling five dice to achieve certa
 Each category can only be used once per game. The player with the highest total score at the end wins.
 
 ## How to Play
-
+### wasdf
 1. Run the game: `python yacht_game.py`
 2. Select the number of players (2-4)
 3. On your turn:
